@@ -1,5 +1,4 @@
 import useWindowSize from "../../hooks/useWindowSize";
-import Button from "../layout/Button";
 import ButtonContainer from "./ButtonContainer";
 import { ProjectType } from "./ProjectList";
 
